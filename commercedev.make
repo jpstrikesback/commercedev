@@ -28,6 +28,13 @@ projects[commerce_paypal][download][type] = cvs
 projects[commerce_paypal][download][module] = contributions/modules/commerce_paypal
 projects[commerce_paypal][download][date] = 2010-10-06
 
+projects[ctools][subdir] = contrib
+projects[ctools][type] = module
+projects[ctools][download][type] = cvs
+projects[ctools][download][module] = contributions/modules/ctools
+projects[ctools][download][revision] = "HEAD"
+projects[ctools][download][date] = 2010-11-11
+
 projects[views][subdir] = contrib
 projects[views][type] = module
 projects[views][download][type] = cvs
