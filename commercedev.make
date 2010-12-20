@@ -39,7 +39,6 @@ projects[views][type] = module
 projects[views][download][type] = cvs
 projects[views][download][module] = contributions/modules/views
 projects[views][download][revision] = "DRUPAL-7--3"
-projects[views][download][date] = 2010-10-07
 
 projects[commerce][subdir] = contrib
 projects[commerce][type] = module
